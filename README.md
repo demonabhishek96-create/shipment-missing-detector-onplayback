@@ -39,7 +39,7 @@ This tool automatically:
 ## 📸 Screenshots
 
 ### ROI Selection
-<img width="1557" height="740" alt="image" src="https://github.com/user-attachments/assets/cf528985-cb83-4cb0-922b-3aa888423c1b" />
+<img width="1828" height="1007" alt="image" src="https://github.com/user-attachments/assets/32ddaa08-3b37-41bb-b680-8df3c23dd30b" />
 
 
 ### Detection Output
