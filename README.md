@@ -43,10 +43,12 @@ Simply load on browser via local host
 
 
 ### Detection Output
-<img width="1663" height="805" alt="image" src="https://github.com/user-attachments/assets/fcabf742-0be5-42c0-8ee1-cb32691ced5a" />
+<img width="1653" height="1016" alt="image" src="https://github.com/user-attachments/assets/b46559e6-d5c0-49c2-8105-cfc239cf2b48" />
+
 
 **Option to download as pdf**
-<img width="1535" height="464" alt="image" src="https://github.com/user-attachments/assets/38b6530d-d83b-43dc-b738-6c5315177c4b" />
+<img width="1784" height="962" alt="image" src="https://github.com/user-attachments/assets/935b8085-de63-4751-ab93-0dd0ede5ef33" />
+
 
 ## **Highlighted result with Timeline and live log panel**
 
