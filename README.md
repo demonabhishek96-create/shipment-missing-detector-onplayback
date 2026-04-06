@@ -35,7 +35,7 @@ This tool automatically:
 ---
 
 ## 🖥 Demo
-
+Simply load on browser via local host
 ## 📸 Screenshots
 
 ### ROI Selection
