@@ -48,6 +48,11 @@ This tool automatically:
 **Option to download as pdf**
 <img width="1535" height="464" alt="image" src="https://github.com/user-attachments/assets/38b6530d-d83b-43dc-b738-6c5315177c4b" />
 
+## **Highlighted result with Timeline and live log panel**
+
+<img width="1581" height="276" alt="image" src="https://github.com/user-attachments/assets/278bcf73-f201-47e0-a6b9-d2dc2e19a29c" />
+
+
 ---
 
 ## ⚙️ How It Works
